@@ -1,6 +1,6 @@
-# 🛒 Zepto E-commerce SQL Portfolio Project
+# 🛒 Zepto E-commerce SQL  Project
 
-This is a hands-on, real-world SQL portfolio project simulating the workflow of a data analyst in an **e-commerce/retail environment**, based on Zepto’s product inventory dataset — one of India’s fastest-growing quick-commerce platforms. It demonstrates **data modeling, cleaning, exploration, and business-driven analysis** using SQL, and is designed to showcase practical skills for recruiters and hiring managers.
+This is a hands-on, real-world SQL project simulating the workflow of a data analyst in an **e-commerce/retail environment**, based on Zepto’s product inventory dataset — one of India’s fastest-growing quick-commerce platforms. It demonstrates **data modeling, cleaning, exploration, and business-driven analysis** using SQL, and is designed to showcase practical skills for recruiters and hiring managers.
 
 ---
 
